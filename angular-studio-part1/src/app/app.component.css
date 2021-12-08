@@ -1,0 +1,7 @@
+.box {
+    display: flex;
+    padding: 10px;
+    background-color: rgb(193, 210, 252);
+    border-radius: 5px;
+    background: linear-gradient(15deg, rgb(193, 210, 252), white);
+ }

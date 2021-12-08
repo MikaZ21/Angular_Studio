@@ -1,0 +1,14 @@
+.dashboard {
+    background-color: rgb(193, 210, 252);
+    border-radius: 5px;
+    background: linear-gradient(90deg, rgb(193, 210, 252), white);
+}
+
+h1 {
+    color: rgb(62, 62, 62);
+    
+}
+
+h3 {
+    color: rgb(62, 62, 62);
+}
